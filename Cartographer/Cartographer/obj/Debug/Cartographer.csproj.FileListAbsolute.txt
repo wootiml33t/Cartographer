@@ -1,0 +1,10 @@
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\bin\Debug\Cartographer.exe.config
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\bin\Debug\Cartographer.exe
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\bin\Debug\Cartographer.pdb
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\bin\Debug\WebDriver.dll
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\bin\Debug\WebDriver.xml
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\obj\Debug\Cartographer.csprojAssemblyReference.cache
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\obj\Debug\Cartographer.csproj.CoreCompileInputs.cache
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\obj\Debug\Cartographer.csproj.CopyComplete
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\obj\Debug\Cartographer.exe
+C:\Users\v-zaleon\source\repos\Cartographer\Cartographer\obj\Debug\Cartographer.pdb
